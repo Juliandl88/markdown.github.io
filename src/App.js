@@ -57,6 +57,7 @@ function App() {
   const age = 35
   const number = Math.random() * 10
   const contry = "Argentina"
+  const city = "Buenos Aires"
   \`\`\`
   `;
   const [text, setText] = useState(initialMarkdown);
