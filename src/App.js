@@ -58,6 +58,7 @@ function App() {
   const number = Math.random() * 10
   const contry = "Argentina"
   const city = "Buenos Aires"
+  const postalCode = 1407
   \`\`\`
   `;
   const [text, setText] = useState(initialMarkdown);
